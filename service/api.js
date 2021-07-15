@@ -1,4 +1,4 @@
-const baseUrl = "http://professor-allocation.herokuapp.com";
+const baseUrl = "https://professor-allocation.herokuapp.com";
 
 // GET - retorna uma lista
 async function list(route) {
